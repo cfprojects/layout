@@ -1,0 +1,2 @@
+Copy the "layouts" folder into the root of your site.
+Copy the layout.cfm into your Custom Tags directory (or use cfmodule or cfimport)
